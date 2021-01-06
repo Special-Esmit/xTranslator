@@ -25,12 +25,11 @@ Running:
 
 Step 1 : Run taransserver.py in server Execute Command: 'nohup python3 transserver.py' (in localhost, for run in server,edit translator.rb and compile with shoeswalk)
 
-Step 2 : './translator-x86_64.run'
+Step 2 : 'chmod u+x translator-x86_64.run ; ./translator-x86_64.run'
 
 Step 3 : You See GUI ! Press Control + m
 
-Step 4 : Enter Text , Select Language For Translate
-
+Step 4 : Enter Text !
 ________________________________________________________
 
 The End :)
