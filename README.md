@@ -1,7 +1,7 @@
 # xTranslator
 Translator Server (Python) | GUI Client (Ruby)
 
-* translate-x86_64.run is full *
+* translate-x86_64.run is full
 
 ________________________________________________________
 
