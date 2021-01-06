@@ -27,7 +27,8 @@ Step 1 : Run taransserver.py in server Execute Command: 'nohup python3 transserv
 
 Step 2 : 'chmod u+x translator-x86_64.run ; ./translator-x86_64.run'
 
-Step 3 : You See GUI ! Press Control + m
+Step 3 : You See GUI ! , Select Language For Translate
+, Press Control + m
 
 Step 4 : Enter Text !
 ________________________________________________________
